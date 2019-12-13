@@ -19,18 +19,20 @@ Main.Line = styled.div `
   flex-grow: 1;
   height: 1px;
   transform: rotate(-90deg);
-  width: 600%;
-left: -66px;
-position: relative;
+  width: 250%;
+  left: -200px;
+  position: relative;
+  margin: 147px;
 @media (max-width: 768px) { 
   display: none;
 }
 `
 Main.Festival = styled.p `
   font-size: 30px;
-  width: 600%;
+  width: 250%;
   position: relative;
-  right: 109px;
+  right: 358px;
+  font-weight: bold;
   @media (max-width: 768px) { 
     display: none;
   }
