@@ -6,15 +6,15 @@ export default () =>
     <Grid
       container
       direction="row"
-      justify="space-around"
-      alignItems="flex-start"
+      justify="center"
+      alignItems="center"
     >
       <div><a href="/"><img src="https://i.ibb.co/Sd80fTJ/Image1.jpg" alt="Image1" border="0" style={{ width: "100%" }} /></a></div>
       <Grid
         style={{ width: "50%" }}
       >
         <Main.Right>
-          <Main.Logo><a href="https://imgbb.com/"><img src="https://i.ibb.co/1GXg5G5/Image2.jpg" alt="Image2" border="0" /></a></Main.Logo>
+          <Main.Logo><a style={{width: "100%"}} href="https://imgbb.com/"><img src="https://i.ibb.co/1GXg5G5/Image2.jpg" alt="Image2" border="0" style={{width: "100%"}} /></a></Main.Logo>
           <Main.Line />
           <Main.Festival>Singapore Mental Health Film Festival</Main.Festival>
         </Main.Right>
