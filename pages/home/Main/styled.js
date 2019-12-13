@@ -15,7 +15,7 @@ Main.Right = styled.div `
 `;
 Main.Line = styled.div `
   border: 1px solid #374173;
-  padding: 0 0 100px 0;
+  padding: 0 0 22% 0;
 @media (max-width: 768px) { 
   display: none;
 }
