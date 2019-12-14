@@ -7,9 +7,6 @@ const ListFeature = styled.main`
 ListFeature.Content = styled.div `
   display: flex;
   flex-direction: column;
-  width: 15%;
-  position: relative;
-  top: 34px;
 `
 ListFeature.ContentHead = styled.p `
   color: #F56B8D;
@@ -17,8 +14,10 @@ ListFeature.ContentHead = styled.p `
   font-size: 30px
 `
 ListFeature.Container = styled.div `
+position: relative;
+  top: 20px;
  @media (min-width: 960px) {
-  padding: 30px 0px 30px 80px;
+  padding: 30px 80px 30px 80px;
  }
  @media (max-width: 960px) {
     width: 100%;
