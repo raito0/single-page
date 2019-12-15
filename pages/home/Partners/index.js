@@ -13,21 +13,21 @@ export default () =>
                     alignItems="center"
                     wrap="wrap"
                 >
-                    <div><a href="/"><img src="https://i.ibb.co/mDT6Xvk/Capture.jpg" alt="Capture" border="0" /></a></div>
-                    <div><a href="/"><img src="https://i.ibb.co/mDT6Xvk/Capture.jpg" alt="Capture" border="0" /></a></div>
-                    <div><a href="/"><img src="https://i.ibb.co/mDT6Xvk/Capture.jpg" alt="Capture" border="0" /></a></div>
-                    <div><a href="/"><img src="https://i.ibb.co/mDT6Xvk/Capture.jpg" alt="Capture" border="0" /></a></div>
-                    <div><a href="/"><img src="https://i.ibb.co/mDT6Xvk/Capture.jpg" alt="Capture" border="0" /></a></div>
-                    <div><a href="/"><img src="https://i.ibb.co/mDT6Xvk/Capture.jpg" alt="Capture" border="0" /></a></div>
-                    <div><a href="/"><img src="https://i.ibb.co/mDT6Xvk/Capture.jpg" alt="Capture" border="0" /></a></div>
-                    <div><a href="/"><img src="https://i.ibb.co/mDT6Xvk/Capture.jpg" alt="Capture" border="0" /></a></div>
-                    <div><a href="/"><img src="https://i.ibb.co/mDT6Xvk/Capture.jpg" alt="Capture" border="0" /></a></div>
-                    <div><a href="/"><img src="https://i.ibb.co/mDT6Xvk/Capture.jpg" alt="Capture" border="0" /></a></div>
-                    <div><a href="/"><img src="https://i.ibb.co/mDT6Xvk/Capture.jpg" alt="Capture" border="0" /></a></div>
-                    <div><a href="/"><img src="https://i.ibb.co/mDT6Xvk/Capture.jpg" alt="Capture" border="0" /></a></div>
-                    <div><a href="/"><img src="https://i.ibb.co/mDT6Xvk/Capture.jpg" alt="Capture" border="0" /></a></div>
-                    <div><a href="/"><img src="https://i.ibb.co/mDT6Xvk/Capture.jpg" alt="Capture" border="0" /></a></div>
-                    <div><a href="/"><img src="https://i.ibb.co/mDT6Xvk/Capture.jpg" alt="Capture" border="0" /></a></div>
+                    <Partners.Item><a href="/"><img src="https://i.ibb.co/mDT6Xvk/Capture.jpg" alt="Capture" border="0" /></a></Partners.Item>
+                    <Partners.Item><a href="/"><img src="https://i.ibb.co/mDT6Xvk/Capture.jpg" alt="Capture" border="0" /></a></Partners.Item>
+                    <Partners.Item><a href="/"><img src="https://i.ibb.co/mDT6Xvk/Capture.jpg" alt="Capture" border="0" /></a></Partners.Item>
+                    <Partners.Item><a href="/"><img src="https://i.ibb.co/mDT6Xvk/Capture.jpg" alt="Capture" border="0" /></a></Partners.Item>
+                    <Partners.Item><a href="/"><img src="https://i.ibb.co/mDT6Xvk/Capture.jpg" alt="Capture" border="0" /></a></Partners.Item>
+                    <Partners.Item><a href="/"><img src="https://i.ibb.co/mDT6Xvk/Capture.jpg" alt="Capture" border="0" /></a></Partners.Item>
+                    <Partners.Item><a href="/"><img src="https://i.ibb.co/mDT6Xvk/Capture.jpg" alt="Capture" border="0" /></a></Partners.Item>
+                    <Partners.Item><a href="/"><img src="https://i.ibb.co/mDT6Xvk/Capture.jpg" alt="Capture" border="0" /></a></Partners.Item>
+                    <Partners.Item><a href="/"><img src="https://i.ibb.co/mDT6Xvk/Capture.jpg" alt="Capture" border="0" /></a></Partners.Item>
+                    <Partners.Item><a href="/"><img src="https://i.ibb.co/mDT6Xvk/Capture.jpg" alt="Capture" border="0" /></a></Partners.Item>
+                    <Partners.Item><a href="/"><img src="https://i.ibb.co/mDT6Xvk/Capture.jpg" alt="Capture" border="0" /></a></Partners.Item>
+                    <Partners.Item><a href="/"><img src="https://i.ibb.co/mDT6Xvk/Capture.jpg" alt="Capture" border="0" /></a></Partners.Item>
+                    <Partners.Item><a href="/"><img src="https://i.ibb.co/mDT6Xvk/Capture.jpg" alt="Capture" border="0" /></a></Partners.Item>
+                    <Partners.Item><a href="/"><img src="https://i.ibb.co/mDT6Xvk/Capture.jpg" alt="Capture" border="0" /></a></Partners.Item>
+                    <Partners.Item><a href="/"><img src="https://i.ibb.co/mDT6Xvk/Capture.jpg" alt="Capture" border="0" /></a></Partners.Item>
                 </Grid>
             </Partners.Box>
         </Partners.Container>

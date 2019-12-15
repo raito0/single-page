@@ -1,5 +1,5 @@
-import styled from 'styled-components'
-
+import styled from 'styled-components';
+import {up,down} from 'styled-breakpoints';
 const Footer = styled.div`
     padding: 60px 0px;
     color: #ffffff;
@@ -10,8 +10,10 @@ Footer.Head = styled.p`
     font-size:20px
 `
 Footer.Item = styled.div`
-    flex-direction: column;
-`
+    @media (min-width: 690px) {
+    width: 33%
+}
+`;
 Footer.Container = styled.div `
  @media (min-width: 960px) {
     padding-left: 95px;
@@ -25,5 +27,12 @@ Footer.Container = styled.div `
     padding-left: 16px;
     padding-right: 16px;
  }
+`
+Footer.Directory = styled.div `
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items:center;
+    width: 100%
 `
 export default Footer;

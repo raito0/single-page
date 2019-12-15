@@ -1,5 +1,4 @@
 import styled from 'styled-components';
-
 const Partners = styled.main`
     padding: 80px 0px;
 `;
@@ -25,5 +24,13 @@ Partners.Container = styled.div `
    padding-left: 16px;
    padding-right: 16px;
 }
+`
+Partners.Item = styled.div `
+    @media (max-width: 400px) {
+        width: 50%;
+        img {
+            width: 100%;
+        }
+    }
 `
 export default Partners;
